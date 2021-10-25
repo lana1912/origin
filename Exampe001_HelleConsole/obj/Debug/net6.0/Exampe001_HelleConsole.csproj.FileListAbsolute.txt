@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\bin\Debug\net6.0\Exampe001_HelleConsole.exe
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\bin\Debug\net6.0\Exampe001_HelleConsole.deps.json
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\bin\Debug\net6.0\Exampe001_HelleConsole.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\bin\Debug\net6.0\Exampe001_HelleConsole.dll
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\bin\Debug\net6.0\ref\Exampe001_HelleConsole.dll
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\bin\Debug\net6.0\Exampe001_HelleConsole.pdb
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.GlobalUsings.g.cs
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.dll
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\ref\Exampe001_HelleConsole.dll
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.pdb
+C:\Users\user\Desktop\Examples\Exampe001_HelleConsole\obj\Debug\net6.0\Exampe001_HelleConsole.genruntimeconfig.cache
