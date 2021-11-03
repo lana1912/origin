@@ -39,9 +39,9 @@ while(index<10)
     if(A[index]<B)
     {
         Console.WriteLine(A[index]);
-
     }
     index++;
 }
+
 
 
